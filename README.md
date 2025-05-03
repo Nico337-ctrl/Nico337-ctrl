@@ -12,7 +12,13 @@
 
 ###
 
-<h1 align="center">Hola! Me llamo Nicolas</h1>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Nico337-ctrl.Nico337-ctrl&"  />
+</div>
+
+###
+
+<h1 align="center">Hola!</h1>
 
 ###
 
@@ -20,7 +26,7 @@
 
 ###
 
-<p align="left">Soy de Colombia<br><br>- 🔭 Actualmente me encuentro trabajando en proyectos.<br>- 📚 Aprendiendo cosas nuevas.<br>- ⚡ Y siempre teniendo tiempo libre para nuevas ideas.</p>
+<p align="left">Soy de Colombia.<br><br>- 🔭 Actualmente me encuentro trabajando en proyectos.<br>- 📚 Aprendiendo cosas nuevas.<br>- ⚡ Y siempre teniendo tiempo libre para nuevas ideas.</p>
 
 ###
 
@@ -76,7 +82,15 @@
 
 ###
 
-<h3 align="left">🔥   Mis estadisticas:</h3>
+<h3 align="left">🔥  Mis estadisticas:</h3>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nico337-ctrl&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nico337-ctrl&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Nico337-ctrl&locale=es&mode=weekly&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 ###
 
