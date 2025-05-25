@@ -33,8 +33,7 @@
 
 ###
 
-<p align="left">Aqui: https://nico337-ctrl.github.io/Portafolio-WEB/
-
+<p align="left">Aqui: https://nico337-ctrl.github.io/Perfil-CV-Web/
 ###
 
 
