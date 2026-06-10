@@ -15,7 +15,9 @@
   <a href="mailto:ojedacorreanicolas@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=16a34a&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail" />
   </a>
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo" />
+  <a href="https://www.linkedin.com/in/nicolas-ojeda-correa-9687342b1/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo" />
+  </a>
   <img src="https://img.shields.io/static/v1?message=Soledad%2C%20Atl%C3%A1ntico%20%F0%9F%87%A8%F0%9F%87%B4&label=&color=84cc16&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="ubicación" />
 </div>
 
